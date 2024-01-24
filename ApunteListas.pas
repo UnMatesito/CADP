@@ -1,6 +1,6 @@
 program listas;
 
-Agregar al principio en una lista
+//Agregar al principio en una lista
 procedure agregarAdelante(var L: lista, registro: register);
 var
     nue: lista;
@@ -11,7 +11,7 @@ begin
     L:= nue;
 end;
 
-Agregar al final en una lista
+//Agregar al final en una lista
 procedure agregarAlFinal(var ult: lista, var L:lista,registro: register);
 var
     nue: lista;
@@ -26,7 +26,7 @@ begin
     ult:= nue;
 end;
 
-Agregar en una lista datos ordenados de forma ascendente, para hacerlo de forma descendente hay que poner un signo de menor en vez de mayor en la condición.
+//Agregar en una lista datos ordenados de forma ascendente, para hacerlo de forma descendente hay que poner un signo de menor en vez de mayor en la condición.
 procedure agregarOrdenado(var L:lista, registro:register);
     nue: lista;
     act: lista;

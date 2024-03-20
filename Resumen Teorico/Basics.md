@@ -207,42 +207,38 @@ Si el enunciado nos pide buscar maximos y minimos debemos hacer lo siguiente:
 #### Ejemplos de uso de minimos y maximos
 <table>
 <tr>
-<td>
-Estructura Maximos
-</td>
-<td>
-Estructura Minimos
-</td>
+    <td>
+        Estructura Maximos
+    </td>
+    <td>
+        Estructura Minimos
+    </td>
 </tr>
-<tr>
-<td>
-    <div>
-        ``` Pascal
-        if (dato > max1) then
-            begin
-                max2 := max1;
-                max1 := dato;
-            end
-        else if (dato > max2) then
-            max2 := dato;
-        ```
-    </div>    
-</td>
-<td>
-    <div>
-    ``` Pascal
-        if (dato < min1) then
-            begin
-                min2 := min1;
-                min1 := dato;
-            end
-        else if (dato < max2) then
-            min2 := dato;
-        ```
-    </div>             
-</td>
-</tr>
+
 </table>
+
+<div>
+``` Pascal
+    if (dato > max1) then
+        begin
+            max2 := max1;
+            max1 := dato;
+        end
+    else if (dato > max2) then
+        max2 := dato;
+```
+</div>
+
+
+``` Pascal
+if (dato < min1) then
+    begin
+        min2 := min1;
+        min1 := dato;
+    end
+else if (dato < max2) then
+    min2 := dato;
+```
 
 > [!IMPORTANT]
 > Para que la asignación de maximos y minimo sea efectiva las variables `max` deben estar inicializadas en **0 o 1** y las `min` en un numero muy alto, por ejemplo: 9999.

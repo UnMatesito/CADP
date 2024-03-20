@@ -23,6 +23,9 @@ La **informatica** es la ***ciencia*** que estudia el analisis y ***resolucion d
 * *Computadoras*: Maquian digital y sincronica, con capacidad de calculo numerico y logico controlado por un programa almacenado y con probabilidad de comunicacion con el mundo exterior. Ayuda al hombre a realizar tareas repentinas en menor tiempo y con mayor exactitud. Ejecuta ordenes.
 
 Un **Programa** cuenta con los *algoritmos* (Instrucciones que representan las operaciones que ejecutara la computadora al implementar el programa) y *datos* (Valores de informacion de los que se dispone y en ocaciones transforman para ejecutar el programa).
+
+Un *dato* es una representación de un objeto del mundo real mediante la cual podemos modelizar aspectos del problema que se requiere resolver con un programa sobre una computadora. Puede ser **constante o variable**. Además tienen un rango de valores posibles, tienen un conjunto de operaciones permitidas y tienen una representación interna. Se pueden crear y manipular.
+
 ## Capitulos
 
 1. [Basics](https://pages.github.com/)

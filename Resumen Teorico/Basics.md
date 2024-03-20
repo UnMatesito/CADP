@@ -205,19 +205,9 @@ Si el enunciado nos pide buscar maximos y minimos debemos hacer lo siguiente:
 2. Si nos piden otros datos para determinar sus maximos o minimos debemos hacer lo mismo
 
 #### Ejemplos de uso de minimos y maximos
-<table>
-<tr>
-    <td>
-        Estructura Maximos
-    </td>
-    <td>
-        Estructura Minimos
-    </td>
-</tr>
 
-</table>
+**Estructura maximos**
 
-<div>
 ``` Pascal
     if (dato > max1) then
         begin
@@ -227,8 +217,8 @@ Si el enunciado nos pide buscar maximos y minimos debemos hacer lo siguiente:
     else if (dato > max2) then
         max2 := dato;
 ```
-</div>
 
+**Estructura Minimos**
 
 ``` Pascal
 if (dato < min1) then

@@ -216,26 +216,30 @@ Estructura Minimos
 </tr>
 <tr>
 <td>
-``` pascal
-if (dato > max1) then
-    begin
-        max2 := max1;
-        max1 := dato;
-    end
-else if (dato > max2) then
-    max2 := dato;
-```
+    <div>
+        ``` Pascal
+        if (dato > max1) then
+            begin
+                max2 := max1;
+                max1 := dato;
+            end
+        else if (dato > max2) then
+            max2 := dato;
+        ```
+    </div>    
 </td>
 <td>
-``` pascal
-if (dato < min1) then
-    begin
-        min2 := min1;
-        min1 := dato;
-    end
-else if (dato < max2) then
-    min2 := dato;
-```
+    <div>
+    ``` Pascal
+        if (dato < min1) then
+            begin
+                min2 := min1;
+                min1 := dato;
+            end
+        else if (dato < max2) then
+            min2 := dato;
+        ```
+    </div>             
 </td>
 </tr>
 </table>

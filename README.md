@@ -1,6 +1,10 @@
 
 # Conceptos de Algoritmos y Datos 🖥
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg3ZHZtdjRvM3AxeHRkdjZ4MDhjb3k4bGdqOHVlZnByb3FwMDNrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" alt="Programming"/>
+</p>
+
 Hola! Bienvenidos a mi repsitorio de **CADP**. Podran encontrar en este repositorio un resumen de todas las teorias dadas, con anotaciones extras!
 
 Ademas podran encontrar algunas practicas resueltas y verificadas para comparar resultados.

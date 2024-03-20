@@ -24,6 +24,12 @@ La **informatica** es la ***ciencia*** que estudia el analisis y ***resolucion d
 
 Un **Programa** cuenta con los *algoritmos* (Instrucciones que representan las operaciones que ejecutara la computadora al implementar el programa) y *datos* (Valores de informacion de los que se dispone y en ocaciones transforman para ejecutar el programa).
 
+Un *algoritmo* es una ***especifiacion rigurosa*** de la secuencia de pasos a realizar sobre un ***autómata*** para alcanzar un resultado deseado en un ***tiempo finito***.
+
+* *Especificacion rigurosa*: El algoritmo se debe expersar de forma clara y univoca.
+* *Autómata*: Si es una computadora, tenderemos que escribir el algoritmo en un lenguaje "entendible"y ejecutable por la maquina.
+* *Tiempo finito*: Se supone que un algoritmo empieza y termina. Esta implicito que el numero de instrucciones debe ser tambien finito.
+
 Un *dato* es una representación de un objeto del mundo real mediante la cual podemos modelizar aspectos del problema que se requiere resolver con un programa sobre una computadora. Puede ser **constante o variable**. Además tienen un rango de valores posibles, tienen un conjunto de operaciones permitidas y tienen una representación interna. Se pueden crear y manipular.
 
 ## Capitulos

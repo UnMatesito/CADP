@@ -2,7 +2,7 @@
 # Conceptos de Algoritmos y Datos 🖥
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg3ZHZtdjRvM3AxeHRkdjZ4MDhjb3k4bGdqOHVlZnByb3FwMDNrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" alt="Programming"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtjenJia3NnaW52dzF2enVybW5sd3Z1dmF3eW9icWVrMzBncjc1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Programming"/>
 </p>
 
 Hola! Bienvenidos a mi repsitorio de **CADP**. Podran encontrar en este repositorio un resumen de todas las teorias dadas, con anotaciones extras!

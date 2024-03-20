@@ -15,8 +15,8 @@ Zona de memoria cuyo contenido va a ser un tipo de dato. La direccion inicial de
 
 Zona de memoria cuyo contenido no cambia durante la ejecución del programa.
 
-[!TIP]
-En vectores y subrangos, se utiliza mucho. Podemos usarlo para definir dimensiones fisicas y el maximo de un subrango. Ademas puede ser utilizado en estructuras de control.
+>[!TIP]
+>En vectores y subrangos, se utiliza mucho. Podemos usarlo para definir dimensiones fisicas y el maximo de un subrango. Ademas puede ser utilizado en estructuras de control.
 
 <h3>Tipo de Datos</h3>
 

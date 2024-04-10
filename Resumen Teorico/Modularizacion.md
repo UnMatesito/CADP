@@ -74,7 +74,7 @@ end.
 begin
     write(nombre(paramtros ingresados));
 
-    if (nombre(parametros ingresados) = accion correspondiente al tipo de dato) then
+    if (nombre(parametros ingresados) = evento) then
         //codigo
 end.
 </pre>

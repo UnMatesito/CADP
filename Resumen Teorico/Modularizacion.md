@@ -19,7 +19,7 @@ El concepto de modularización se relaciona a la separacion de una tarea princip
 
 <h3>Estructura General</h3>
 
-<table>
+<table align="center">
 <tr>
 <th>
 Procedimiento
@@ -50,7 +50,7 @@ end;
 
 <h3>Declaración de un modulo</h3>
 
-<table>
+<table align="center">
 <tr>
 <th>
 Procedimiento

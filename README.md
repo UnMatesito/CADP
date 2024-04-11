@@ -42,7 +42,7 @@ Un *dato* es una representación de un objeto del mundo real mediante la cual po
 
 2. [Modularizacion](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Modularizacion.md)
 
-3. [Registros](https://pages.github.com/)
+3. [Registros](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Registros.md)
 
 4. [Vectores](https://pages.github.com/)
 

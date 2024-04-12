@@ -4,6 +4,8 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZ6NDE1MXMwZ2Q3ZTc4aTl1b2VsOHh0a3UwNWF4ZXpmN2U0eHptNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orif8l3lcXT1856ik/giphy.gif" alt="simpsons-registry"/>
 </p>
 
+---
+
 <h3>Definición</h3>
 
 Es un tipo de dato **estructurado compuesto definido por el programador** que permite <ins>agrupar distintas clases de datos en una estructura unica bajo un nombre</ins>. Un registro se sele utilizar para separa las caracteristicas de un objeto real.

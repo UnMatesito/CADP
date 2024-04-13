@@ -44,7 +44,7 @@ Un *dato* es una representación de un objeto del mundo real mediante la cual po
 
 3. [Registros](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Registros.md)
 
-4. [Alcance de Variables](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Alcance%20de%20Variables.md)
+4. [Alcance de las Variables](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Alcance%20de%20Variables.md)
 
 5. [Vectores](https://pages.github.com/)
 

@@ -59,13 +59,13 @@ No Lineal
 
 Depende si los elementos son del mismo tipo o no.
 
-#### Homogénea
+#### <ins>Homogénea</ins>
 
 Los elementos que lo componen son del mismo tipo.
 
 **Por Ejemplo**: Vectores, Listas
 
-#### Heterogénea
+#### <ins>Heterogénea</ins>
 
 Los elementos que lo compoenen son de distintos tipos.
 
@@ -76,13 +76,13 @@ Los elementos que lo compoenen son de distintos tipos.
 
 Hace referencia a si la estructura puede variar su tamaño durante la ejecución del programa.
 
-#### Estatica
+#### <ins>Estatica</ins>
 
 El tamaño de la estructura no varía durante la ejecución del programa.
 
 **Por Ejemplo**: Vectores, Registros
 
-#### Dinámica
+#### <ins>Dinámica</ins>
 
 El tamaño de la estructura varia durante la ejecución del programa.
 
@@ -93,13 +93,13 @@ El tamaño de la estructura varia durante la ejecución del programa.
 
 Hace referencia a como se pueden acceder a los elementos que la componen.
 
-#### Secuencial
+#### <ins>Secuencial</ins>
 
 Para acceder a un elemento en particular se debe respetar el orden que preestablece la estructura, recorriendo por todos los elementos que lo preceden.
 
 **Por Ejemplo**: Listas
 
-#### Directo/Indexado
+#### <ins>Directo/Indexado</ins>
 
 Se puede acceder a un elemento particular, sin la necesidad de pasar por los anteriores a él. Se dice que es indexado debido a que se puede acceder al elemento directamente gracias al uso de un indice.
 
@@ -108,13 +108,13 @@ Se puede acceder a un elemento particular, sin la necesidad de pasar por los ant
 ### Linealidad
 ---
 
-#### Lineal
+#### <ins>Lineal</ins>
 
 Esta formada por ninguno, uno o varios elementos que guardan una relación de adyacencia ordenada donde a cada elemento le sigue uno y le precede uno solo.
 
 **Por Ejemplo**: Vectores, Listas
 
-#### No Lineal
+#### <ins>No Lineal</ins>
 
 Para un elemento dado pueden existir 0, 1 ó mas elementos que le suceden y 0, 1 ó mas elementos que le preceden.
 

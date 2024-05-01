@@ -42,11 +42,11 @@ Un *dato* es una representación de un objeto del mundo real mediante la cual po
 
 2. [Modularizacion](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Modularizacion.md)
 
-3. [Estructura de Datos](aaaaa.com)
+3. [Alcance de las Variables](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Alcance%20de%20Variables.md)
 
-4. [Registros](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Registros.md)
+4. [Estructura de Datos](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Estructura%20de%20datos.md)
 
-5. [Alcance de las Variables](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Alcance%20de%20Variables.md)
+5. [Registros](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Registros.md)
 
 6. [Vectores](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Vectores.md)
 

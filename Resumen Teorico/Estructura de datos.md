@@ -54,7 +54,7 @@ No Lineal
 </tr>
 </table>
 
-### Elementos
+<h3 align="center">Elementos</h3>
 ----
 
 Depende si los elementos son del mismo tipo o no.
@@ -71,7 +71,7 @@ Los elementos que lo compoenen son de distintos tipos.
 
 **Por Ejemplo**: Registros
 
-### Tamaño
+<h3 align="center">Tamaño</h3>
 ---
 
 Hace referencia a si la estructura puede variar su tamaño durante la ejecución del programa.
@@ -88,7 +88,7 @@ El tamaño de la estructura varia durante la ejecución del programa.
 
 **Por Ejemplo**: Listas
 
-### Acceso
+<h3 align="center">Acceso</h3>
 ---
 
 Hace referencia a como se pueden acceder a los elementos que la componen.
@@ -105,7 +105,7 @@ Se puede acceder a un elemento particular, sin la necesidad de pasar por los ant
 
 **Por Ejemplo**: Vectores, Registros
 
-### Linealidad
+<h3 align="center">Linealidad</h3>
 ---
 
 #### <ins>Lineal</ins>

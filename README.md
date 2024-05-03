@@ -50,6 +50,8 @@ Un *dato* es una representación de un objeto del mundo real mediante la cual po
 
 6. [Vectores](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Vectores.md)
 
-7. [Listas](https://pages.github.com/)
+7. [Punteros](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Punteros.md)
 
-8. [Calculo de Memoria y Tiempo de ejecucion](https://pages.github.com/)
+8. [Listas](https://pages.github.com/)
+
+9. [Calculo de Memoria y Tiempo de ejecucion](https://pages.github.com/)

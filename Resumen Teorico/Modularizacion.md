@@ -86,7 +86,7 @@ end.
 >Las Funciones solo pueden devolver tipos de datos simples (integer, boolean, char, puntero). Mientras que los procesos pueden devolver cualquier tipo de dato ya sea simple o compuesto.
 
 >[!NOTE]
->Tanto los procesos como las funciones funcionan como "mini programas", es decir que se pueden declarar tanto constantes, nuevos tipos de datos dentro de ellos y otros modulos dentro de ellos.
+>Tanto los procesos como las funciones funcionan como **"mini programas"**, es decir que se pueden declarar tanto constantes, nuevos tipos de datos dentro de ellos y otros modulos dentro de ellos.
 
 <h1>Parametros</h1>
 

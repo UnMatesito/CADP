@@ -140,13 +140,15 @@ Para un elemento dado pueden existir 0, 1 ó mas elementos que le suceden y 0, 1
   <td>
     <pre lang="pascal">
       type
-          estructuraDeDatos = tipo de estructura de datos //Registro, Vector, Lista
+          estructuraDeDatos = tipo de estructura de datos 
+          //Registro, Vector, Lista
     </pre>
   </td>
   <td>
     <pre lang="pascal">
       var
-          estructuraDeDatos : tipo de estructura de datos //Registro, Vector, Lista
+          estructuraDeDatos : tipo de estructura de datos 
+          //Registro, Vector, Lista
     </pre>
   </td>
 </tr>

@@ -206,7 +206,7 @@ Si el enunciado nos pide buscar maximos y minimos debemos hacer lo siguiente:
 
 #### Ejemplos de uso de minimos y maximos
 
-<table>
+<table align="center">
     <tr>
         <th>
             Estructura Maximos
@@ -218,24 +218,24 @@ Si el enunciado nos pide buscar maximos y minimos debemos hacer lo siguiente:
     <tr>
         <td>
             <pre lang="pascal">
-                if (dato > max1) then
-                begin
-                    max2 := max1;
-                    max1 := dato;
-                end
-                else if (dato > max2) then
-                    max2 := dato;
+if (dato > max1) then
+begin
+    max2 := max1;
+    max1 := dato;
+end
+else if (dato > max2) then
+    max2 := dato;
             </pre>
         </td>
         <td>
             <pre lang="pascal">
-                if (dato < min1) then
-                begin
-                    min2 := min1;
-                    min1 := dato;
-                end
-                else if (dato < max2) then
-                    min2 := dato;
+if (dato < min1) then
+begin
+    min2 := min1;
+    min1 := dato;
+end
+else if (dato < max2) then
+    min2 := dato;
             </pre>
         </td>
     </tr>

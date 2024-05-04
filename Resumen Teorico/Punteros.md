@@ -24,8 +24,7 @@ var
 Para poder crear un puntero y poder almacenar datos se utiliza la sentencia `new(p)` que lo que hace es crear una direccion de memoria dinamica donde la variable p va a a ser asignada para almacenar contenido.
 
 >[!WARNING]
-> No se puede asignar a un puntero una direccion especifica
-> MAL -> P := ABCD
+> No se puede asignar a un puntero una direccion especifica <br> MAL -> P := ABCD
 
 ### Eliminación de un puntero
 

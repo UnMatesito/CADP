@@ -1,4 +1,5 @@
 <h1>Estructuras de Datos</h1>
+
 <p align="center">
 <img src="https://repository-images.githubusercontent.com/591060405/eaf4564a-72d3-461c-b651-eec7a68b53b5"/>
 </p>
@@ -123,3 +124,33 @@ Esta formada por ninguno, uno o varios elementos que guardan una relación de ad
 Para un elemento dado pueden existir 0, 1 ó mas elementos que le suceden y 0, 1 ó mas elementos que le preceden.
 
 **Por Ejemplo**: Registros
+
+## Declaración
+
+<table>
+<tr>
+  <th>
+    Dentro del type
+  </th>
+  <th>
+    Como una variable
+  </th>
+</tr>
+<tr>
+  <td>
+    <pre lang="pascal">
+      type
+          estructuraDeDatos = tipo de estructura de datos //Registro, Vector, Lista
+    </pre>
+  </td>
+  <td>
+    <pre lang="pascal">
+      var
+          estructuraDeDatos : tipo de estructura de datos //Registro, Vector, Lista
+    </pre>
+  </td>
+</tr>
+</table>
+
+>[!NOTE]
+>Cuando declaramos una estructura de datos dentro del `type` esa variable puede ser utilizada en todo el programa, mientras que las estructuras de datos declaradas en la zona de variables solo pueden ser usadas en la zona donde fue declarada, es decir que los visibilidad y utilización solo va a poder ser en la zona donde fue declarada o por parametros.

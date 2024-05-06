@@ -376,7 +376,7 @@ end;
 1. Inicializo una variable booleana que determnina si se encontro el elemento en falso;
 2. Mientras la lista no llegue a nil y la variable booleana no sea verdadero
     -> avanzo a la siguiente posicion de la lista;
-3.Pregunto si el dato almacenado en la lista es igual al dato a buscar
+3. Pregunto si el dato almacenado en la lista es igual al dato a buscar
     si es asi:
         -> la variable booleana pasa a ser verdadera;   
 4. Le asigno a la funcion el valor que contendra la variable booleana despues de la ejecucion;

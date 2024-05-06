@@ -11,7 +11,7 @@
 
 Una **lista** es una estructura de datos <ins>dinámica, definida por el programador</ins>. Es una colección de nodos, donde cada nodo tiene un elemento (con un tipo de dato especificado) y una dirección de memoria dinámica que indica donde se encuentra el siguiente nodo que mantienen un orden logico.
 
-Como sabemos es una estructura de datos [<ins>homogénea</ins>](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Estructura%20de%20datos.md), [<ins>dinámica</ins>](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Estructura%20de%20datos.md), [<ins>secuencial</ins>](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Estructura%20de%20datos.md) y [<ins>lineal</ins>](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Estructura%20de%20datos.md)
+Como sabemos es una estructura de datos [<ins>homogénea</ins>](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Estructura%20de%20datos.md#homogénea), [<ins>dinámica</ins>](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Estructura%20de%20datos.md#dinámica), [<ins>secuencial</ins>](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Estructura%20de%20datos.md#secuencial) y [<ins>lineal</ins>](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/Estructura%20de%20datos.md#lineal)
 
 ### Declaración
 

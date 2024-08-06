@@ -55,4 +55,4 @@ Un *dato* es una representación de un objeto del mundo real mediante la cual po
 
 8. [Listas](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico%2FListas.md)
 
-9. [Calculo de Memoria y Tiempo de ejecucion](https://pages.github.com/)
+9. [Calculo de Memoria y Tiempo de ejecucion](https://github.com/UnMatesito/CADP/blob/main/Resumen%20Teorico/CM%20y%20TE.md)

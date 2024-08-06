@@ -300,7 +300,7 @@ end.
     <br>
     4. Asignación * 5 = 2 UT
     <br>
-    <strong>Total Programa = 13 UT</strong>
+    <br><strong>Total Programa = 13 UT</strong>
 </td>
 </tr>
 </table>
@@ -334,7 +334,7 @@ end.
     <br> then = 2 UT + 1 UT (asignaciones y resta) -> 3 UT
     <br> else = 4 UT (Asignacion, suma, multiplicación y MOD)
     <br>
-    <strong>Total Programa = 5 UT (1 UT + 4 UT -> else)</strong>
+    <br><strong>Total Programa = 5 UT (1 UT + 4 UT -> else)</strong>
 </td>
 </tr>
 </table>
@@ -367,7 +367,7 @@ end.
     <br> Cuerpo = 1 UT + 2 UT -> 3 UT (asignaciones y suma)
     <br> (15 + 2) + 5 * (3) -> 17 + 15
     <br>
-    <strong>Total Programa = 32 UT</strong>
+    <br><strong>Total Programa = 32 UT</strong>
 </td>
 </tr>
 </table>
@@ -402,7 +402,7 @@ end.
     <br> cuerpo = 1 UT + 2 UT -> 3 UT
     <br> 1 * (6) + 5 * 3 -> 6 + 15 -> 21 UT
     <br> 
-    <strong>Total Programa = 21 UT</strong>
+    <br><strong>Total Programa = 21 UT</strong>
 </td>
 </tr>
 </table>
@@ -437,6 +437,7 @@ end.
     <br> 1 * 5 + 5 * (cuerpo)
     <br> cuerpo = 1 UT + 2 UT -> 3 UT
     <br> 5 + 5 * 3
+    <br>
     <br> <strong>Total Programa = 20 UT</strong>
 </td>
 </tr>
